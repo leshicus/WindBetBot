@@ -1,0 +1,22 @@
+{
+    "message_id": 116,
+    "date": 1511693233,
+    "chat": { "id": 456709166, "type": "private", "first_name": "Alex" },
+    "text": "/s",
+    "entities": [{ "type": "bot_command", "offset": 0, "length": 2 }],
+    "caption_entities": [],
+    "photo": [],
+    "new_chat_members": [],
+    "new_chat_photo": [],
+    "delete_chat_photo": False,
+    "group_chat_created": False,
+    "supergroup_chat_created": False,
+    "channel_chat_created": False,
+    "from": {
+        "id": 456709166,
+        "first_name": "Alex",
+        "is_bot": False,
+        "language_code": "en"
+    },
+    "new_chat_member": None
+}
